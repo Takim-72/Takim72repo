@@ -59,8 +59,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - (https://github.com/Takim-72/Takim72repo/blob/main/takim72%20(1).jpg)
 
 
-- **Ürün Durumu**: Ekran görüntüleri: 
-
+- **Ürün Durumu**: Ürün ile ilgili görüntü alınabilir bir ilerleme gerçekleşmedi. Ana hatlar belirlendi.
 
 - **Sprint Review**: 
 Alınan kararlar: İskandinav mitolojisindeki itemlarda ücretsiz assetler kullanılması gerektiği için basic ve eşsiz olmayan itemlar yapılması kararlaştırılmıştır. İtem storylerin belirlenmesi için dosya oluşturuldu. 
@@ -72,12 +71,10 @@ Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül 
   - Assetler belirlenmeli ve senaryo kararlaştırılacak.
 
 -**Diğer Notlar**:
-- N/A
 
 ---
 
 # Sprint 2
-
 
 ---
 
