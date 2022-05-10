@@ -49,25 +49,28 @@ Takım 72
 
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in 100 ile başlaması gerektiğine karar verildi.
 
-- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Sprint başına tahmin edilen puan sayısını geçmeyecek şekilde sıradan seçimler yapılmaktadır. Story başına çıkan tahmin puanı, toplam puanın yarısından az tutulmuştur. 
+- **Backlog düzeni ve Story seçimleri**: Backlog'umuz ilk yapılacak story'lere göre düzenlenmiştir. Story görevinde puan açısından en büyük yüzdeliğe sahip olmasıyla oyunda İskandinav mitolojisi kullanılması kararlaştırlmıştır.
 
 Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözüken kırmızı item'lar yapılacak işleri (task) gösterirken, mavi item'lar story'leri temsil etmektedir.
 
-- **Daily Scrum**: Daily Scrum toplantılarının kullanılabilirliği ve belge depolanabilirliği vasıtasıyla Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/BootcampScrumTemplate/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantılarının kullanılabilirliği ve belge depolanabilirliği vasıtasıyla Discord üzerinden yapılmasına karar verilmiştir. Daily Scrum toplantısı örneği png olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum screenshot]
+- (https://github.com/Takim-72/Takim72repo/blob/main/g%C3%B6r%C3%BC%C5%9Fme.png)
+- (https://github.com/Takim-72/Takim72repo/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-05-10%20211205.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
 
 
-- **Ürün Durumu**: Ekran görüntüleri:
+- **Ürün Durumu**: Ekran görüntüleri: 
 
 
 - **Sprint Review**: 
-Alınan kararlar: Veritabanı oluşturması email ile toplanacak veriler için gerekli görülmüştür. Fakat bir yandan da veritabanı form sayfası için gerekli olmamıştır. O sebeple PBI bir sonraki sprint'e aktarılmıştır. Çıkan ürünün çalışmasında ve testlerinde bir problem görülmemiştir. Ekstra koyulması gereken özellikler belirlenmiştir. Sprint Review katılımcıları: ......
+Alınan kararlar: İskandinav mitolojisindeki itemlarda ücretsiz assetler kullanılması gerektiği için basic ve eşsiz olmayan itemlar yapılması kararlaştırılmıştır. İtem storylerin belirlenmesi için dosya oluşturuldu. 
+Sprint Review katılımcıları: Mert Ünal & Baran Baranoğlu & Şevval Betül Sakallı & Fatıma Zehra Yüksel
 
 - **Sprint Retrospective:**
   - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır
   - Tahmin puanları gözden geçirilmeli ve sprint planlama toplantılarında gerekli geri bildirimlerin developer'lar tarafından verildiğine emin olunmalı
-  - Unit test'ler için ayrılan efor/saat arttırılmalı 
+  - Assetler belirlenmeli ve senaryo kararlaştırılacak.
 
 -**Diğer Notlar**:
 - N/A
