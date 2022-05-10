@@ -56,7 +56,7 @@ Story'ler yapılacak işlere (task'lere) bölünmüştür. Miro Board'da gözük
 - (https://github.com/Takim-72/Takim72repo/blob/main/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-05-10%20211205.png)
 
 - **Sprint board update**: 
-
+- (https://github.com/Takim-72/Takim72repo/blob/main/takim72%20(1).jpg)
 
 
 - **Ürün Durumu**: Ekran görüntüleri: 
