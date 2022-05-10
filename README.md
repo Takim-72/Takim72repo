@@ -14,7 +14,7 @@ Takım 72
 
 ## Ürün İsmi
 
---Robot/Vampire Rail Shooter--
+--Road to Valhalla--
 
 ## Ürün Açıklaması
 
@@ -26,14 +26,12 @@ Takım 72
 - Değiştirilebilir itemlar ile farklı durumlar 
 - Minimal oynanış mekanikli
 - Güçlendirmeler ile karakterin desteklenmesi
-- 
 
 ## Hedef Kitle
 
 - 18 - 35 yaş arası kullanıcılar 
 - Hayatta kalma, aksiyon ve macera oyunseverlerine özel
-- 
-- 
+
 
 ## Product Backlog URL
 
